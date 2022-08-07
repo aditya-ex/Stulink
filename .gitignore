@@ -102,5 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 
 images
+=======
+>>>>>>> e4cc28f0fd330e8b0efe9cda5327514d68cc2439
